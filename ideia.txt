@@ -1,0 +1,1 @@
+$('#lista tbody').append('<tr>' + '<td><input type="text" name="nomeVariavel['+next+'][item]" /></td>' + '<td><input type="text" name="nomeVariavel['+next+'][quantidade][" /></td>' + '</tr>');
